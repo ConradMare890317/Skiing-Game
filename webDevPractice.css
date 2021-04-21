@@ -1,0 +1,12 @@
+html {
+  background-color: #000;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#c1 {
+  width: 100%;
+}
